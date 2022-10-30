@@ -70,3 +70,9 @@ hr {
 .vertical-line {
   border-right: 1px solid red;
 }
+
+.btn-blue {
+  width: 2rem;
+  height: 1rem;
+  background-color: blue;
+}
